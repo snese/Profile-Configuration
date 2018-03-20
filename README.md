@@ -6,6 +6,7 @@
 - CheatSheet
 - Dash
 - GPG Keychain
+- Git
 - iTerm
   - .zshrc
   - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
