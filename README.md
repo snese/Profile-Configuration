@@ -1,1 +1,5 @@
-# Profile-Configuration
+# Environment Setup
+
+## Mac
+
+## Linux
