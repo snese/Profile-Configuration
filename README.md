@@ -6,8 +6,9 @@
 - CheatSheet
 - Dash
 - GPG Keychain
-- iTerm2
+- iTerm
   - oh-my-zsh
+  - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 - Postman
 - Tunnelblick
 - Visual Studio Code
